@@ -1,0 +1,16 @@
+#as{
+    background-color: rgb(0, 153, 255);
+    background-image: url("birthdayCard.png");
+}
+#a{
+    font-weight: bold;
+
+    color:rgb(97, 225, 65);
+
+    font-family: monospace;
+}
+
+label{
+    font-weight:bolder;
+    color: black;
+}
